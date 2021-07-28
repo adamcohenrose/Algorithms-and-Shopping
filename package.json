@@ -1,0 +1,16 @@
+{
+  "name": "Algorithms-and-Shopping",
+  "version": "1.0.0",
+  "description": "This project provides a worked example for an education pack designed by the Academies Enterprise Trust and Tesco Technology",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha **/*-test.js"
+  },
+  "keywords": [],
+  "author": "Adam Cohen-Rose, Tesco Technology (https://www.linkedin.com/showcase/tesco-technology/)",
+  "license": "ISC",
+  "dependencies": {
+    "chai": "^4.3.4",
+    "mocha": "^9.0.3"
+  }
+}
